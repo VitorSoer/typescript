@@ -1,3 +1,19 @@
+# TypeScript Courses | Udemy | Youtube
+
+> Requirements:
+[Node](https://nodejs.org/en/) Version 16+ |
+[Npm](https://www.npmjs.com/) or
+[Yarn](https://yarnpkg.com/) |
+[VsCode](https://code.visualstudio.com/download) or any other code editor.
+
+The repository contains some coding exercises and small projects used for practice.
+
+- [Course 01:](https://github.com/VitorSoer/typescript/tree/main/src/course-01)
+TypeScript - Beginner To Advanced | Matheus Battisti
+
+- [Course 02:](https://github.com/VitorSoer/typescript/tree/main/src/course-02)
+Mastering TypeScript | Colt Steele
+
 ## Instructions:
 > Use the command line to perform the steps.
 
