@@ -1,4 +1,4 @@
-// Type Guard
+// Narrowing: Type Guard
 function sum(valueOne: number | string, valueTwo: number | string) {
   if (typeof valueOne === 'string' && typeof valueTwo === 'string') {
     console.log(Number(valueOne) + Number(valueTwo));
